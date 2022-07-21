@@ -10,10 +10,10 @@ img {
     border: 5px solid red;
 }
 
-td, tr{
+td,
+tr {
     border-style: solid;
 }
-
 
 #sidebar {
     width: 120px;
